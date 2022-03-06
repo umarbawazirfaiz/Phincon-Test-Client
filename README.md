@@ -9,9 +9,9 @@ git clone https://github.com/umarbawazirfaiz/Phincon-Test-Client.git
 cd Phincon-Test-Client
 npm install
 npm start # open localhost:3000 to view it in your browser.
-
-make sure Phincon-Test-Server is running
 ```
+
+make sure [Phincon-Test-Server](https://github.com/umarbawazirfaiz/Phincon-Test-Server) is running
 
 ## Feature
 
